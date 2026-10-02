@@ -1,0 +1,10 @@
+[tools]
+lua = "latest"
+lua-language-server = "latest"
+node = "latest"
+pi = "latest"
+python = "latest"
+rust = "latest"
+rust-analyzer = "latest"
+stylua = "2.5.2"
+tree-sitter = "latest"
